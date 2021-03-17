@@ -11938,7 +11938,7 @@ a {
     margin-bottom: 15px
 }
 
-.fake-form-button {
+.form-button {
     width: 100%;
     color: #02347A;
     background-color: transparent;
@@ -11965,7 +11965,7 @@ a {
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out, -webkit-box-shadow .15s ease-in-out
 }
 
-.fake-form-button:hover {
+.form-button:hover {
     background-color: #5DA0FE;
     border-color: #5DA0FE;
     color: #fff

@@ -11941,7 +11941,7 @@ a {
 .form-button {
     width: 100%;
     color: #02347A;
-    background-color: transparent;
+    background-color: white;
     background-image: none;
     border-color: #02347A;
     cursor: pointer;
@@ -11966,9 +11966,9 @@ a {
 }
 
 .form-button:hover {
-    background-color: #5DA0FE;
-    border-color: #5DA0FE;
-    color: #fff
+    background-color: #5DA0FE !important;
+    border-color: #5DA0FE !important;
+    color: #fff !important;
 }
 
 .menu-social-dropdown ul {
